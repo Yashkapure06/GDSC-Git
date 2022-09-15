@@ -23,6 +23,19 @@
 * You can visit any snapshot at any time
 * You can stage files before committing
 
+### Difference Between Git & GitHub
+
+| Git | GitHub |
+| ------- | ----------- |
+| Git is a software | GitHub is a cloud service |
+| Git is installed locally on the system | GitHub is hosted on the web |
+| It is command-line tool | It is a graphical user interface |
+| Git is maintained by linux | GitHub is maintained by Microsoft |
+| It is focused on version control and code sharing | It is focused on centralized source code hosting |
+| Git is open-source licensed | GitHub includes a free-tier and pay-for-use tier |
+| Git was released in 2005 | GitHub was released in 2008 |
+
+
 ## GIT Installation
 * Linux(Debian)
     `$sudo apt-get install git`
