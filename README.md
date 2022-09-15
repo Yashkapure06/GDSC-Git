@@ -6,7 +6,8 @@
 
 ## What is `Git`?
       1. Git is a distributed version control system.
-      2. The entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
+      2. The entire codebase and history is available on every developer’s computer, 
+         which allows for easy branching and merging.
       3. It is used as Version Control System (VCS) for tracking changes in computer files.
       
 * Distributed version control
